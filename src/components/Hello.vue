@@ -11,7 +11,7 @@
 import Counter from './Counter';
 
 export default {
-  name: 'hello',
+  name: 'hello',   
   data() {
     return {
       msg: 'Welcome to Your Vue.js App',
